@@ -17,7 +17,7 @@ import (
 
 const (
 	kAppServiceLoginUrl           = "https://zjuam.zju.edu.cn/cas/login?service=http%3A%2F%2Fappservice.zju.edu.cn%2F"
-	kAppServiceGetWeekClassInfo   = "http://appservice.zju.edu.cn/zju-smartcampus/zdydjw/api/kbdy_cxXsZKbxx"
+	kAppServiceGetWeekClassInfo   = "http://appservice.zju.edu.cn/zju-smartcampus/zdydjw/api/kbdy_cxDqXnxxq"
 	kAppServiceGetExamOutlineInfo = "http://appservice.zju.edu.cn/zju-smartcampus/zdydjw/api/kkqk_cxXsksxx"
 	kAppServiceGetClassScore      = "http://appservice.zju.edu.cn/zju-smartcampus/zdydjw/api/kkqk_cxXscjxx"
 )
